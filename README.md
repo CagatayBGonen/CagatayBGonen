@@ -4,13 +4,13 @@
 </a>
 
 <br>
-<pre>
-- 🔭 I’m currently working on ... Concort Hotel Project
-- 🌱 I’m currently learning ... API
-- 👯 I’m looking to collaborate on ... API
-- 🤔 I’m looking for help with ... Cypress
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... cagataybayramgonen@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am an Archer
-</pre>
+
+- 🔭 I’m currently working on ... Concort Hotel Project <br>
+- 🌱 I’m currently learning ... API <br>
+- 👯 I’m looking to collaborate on ... API <br>
+- 🤔 I’m looking for help with ... Cypress <br>
+- 💬 Ask me about ... Anything <br>
+- 📫 How to reach me: ... cagataybayramgonen@gmail.com <br>
+- 😄 Pronouns: ... He/Him <br>
+- ⚡ Fun fact: ... I am an Archer <br>
+
