@@ -1,4 +1,4 @@
-### Hi there 👋 Here is what I'm working on!
+### My name is Cagatay and I'm a full stack automation engineer! 👋
 
 
 
