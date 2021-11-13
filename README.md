@@ -1,9 +1,6 @@
 ### My name is Cagatay and I'm a full stack automation engineer! 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Concort Hotel Project
 - 🌱 I’m currently learning ... API
 - 👯 I’m looking to collaborate on ... API
