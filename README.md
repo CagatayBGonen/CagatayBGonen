@@ -3,7 +3,7 @@
   <img align="left" alt="Cagatay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-
+<br />
 - 🔭 I’m currently working on ... Concort Hotel Project
 - 🌱 I’m currently learning ... API
 - 👯 I’m looking to collaborate on ... API
