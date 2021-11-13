@@ -4,6 +4,7 @@
 </a>
 
 <br>
+<pre>
 - 🔭 I’m currently working on ... Concort Hotel Project
 - 🌱 I’m currently learning ... API
 - 👯 I’m looking to collaborate on ... API
@@ -12,4 +13,4 @@
 - 📫 How to reach me: ... cagataybayramgonen@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am an Archer
-
+</pre>
