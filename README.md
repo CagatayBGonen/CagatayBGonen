@@ -3,6 +3,7 @@
   <img align="left" alt="Cagatay's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
 </a>
 </br>
+<p>
 - 🔭 I’m currently working on ... Concort Hotel Project
 - 🌱 I’m currently learning ... API
 - 👯 I’m looking to collaborate on ... API
@@ -11,4 +12,4 @@
 - 📫 How to reach me: ... cagataybayramgonen@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am an Archer
-
+</p>
