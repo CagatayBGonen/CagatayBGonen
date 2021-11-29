@@ -12,7 +12,7 @@
 - 💬 Ask me about ... Anything <br>
 - 📫 How to reach me: ... cagataybayramgonen@gmail.com <br>
 - 😄 Pronouns: ... He/Him <br>
-- ⚡ Fun fact: ... I am an Archer <br>
+- ⚡ Fun fact: ... I am an Archer :) <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CagatayBGonen)](https://github.com/anuraghazra/github-readme-stats)
 
