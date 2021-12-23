@@ -5,10 +5,10 @@
 
 <br>
 
-- 🔭 I’m currently working on ... Concort Hotel Project <br>
-- 🌱 I’m currently learning ... API <br>
-- 👯 I’m looking to collaborate on ... API <br>
-- 🤔 I’m looking for help with ... Cypress <br>
+- 🔭 I’m currently working on ... A Bank Project <br>
+- 🌱 I’m currently learning ... C# <br>
+- 👯 I’m looking to collaborate on ... C# <br>
+- 🤔 I’m looking for help with ... C# <br>
 - 💬 Ask me about ... Anything <br>
 - 📫 How to reach me: ... cagataybayramgonen@gmail.com <br>
 - 😄 Pronouns: ... He/Him <br>
