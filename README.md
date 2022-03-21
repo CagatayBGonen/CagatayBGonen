@@ -1,4 +1,4 @@
-### Hello, my name is Cagatay and I'm a full stack automation engineer! 👋
+### Hello, my name is Cagatay and I'm a full stack Web Developer! 👋
 <a href="https://www.linkedin.com/in/%C3%A7a%C4%9Fatay-b-g%C3%B6nen-70ba6b173/">
   <img align="left" alt="Cagatay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -6,7 +6,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on ... A Game Engine <br>
+- 🔭 I’m currently working on ... Student Management Programme <br>
 - 🌱 I’m currently learning ... C# <br>
 - 👯 I’m looking to collaborate on ... C# <br>
 - 🤔 I’m looking for help with ... C# <br>
