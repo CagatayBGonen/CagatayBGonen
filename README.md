@@ -6,10 +6,10 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on ... Student Management Programme <br>
-- 🌱 I’m currently learning ... C# <br>
-- 👯 I’m looking to collaborate on ... C# <br>
-- 🤔 I’m looking for help with ... C# <br>
+- 🔭 I’m currently working on ... Bussiness Development <br>
+- 🌱 I’m currently learning ... ASP.Net Core MVC <br>
+- 👯 I’m looking to collaborate on ... C#<br>
+- 🤔 I’m looking for help with ... Unity <br>
 - 💬 Ask me about ... Anything <br>
 - 📫 How to reach me: ... cagataybayramgonen@gmail.com <br>
 - 😄 Pronouns: ... He/Him <br>
