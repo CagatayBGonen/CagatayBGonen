@@ -1,4 +1,4 @@
-### Hello, my name is Cagatay and I'm a full stack Web Developer! 👋
+### Hello, my name is Cagatay and I'm Junior Business Development Specialist! 👋
 <a href="https://www.linkedin.com/in/%C3%A7a%C4%9Fatay-b-g%C3%B6nen-70ba6b173/">
   <img align="left" alt="Cagatay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -6,7 +6,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on ... Bussiness Development <br>
+- 🔭 I’m currently working on ... Unity <br>
 - 🌱 I’m currently learning ... ASP.Net Core MVC <br>
 - 👯 I’m looking to collaborate on ... C#<br>
 - 🤔 I’m looking for help with ... Unity <br>
