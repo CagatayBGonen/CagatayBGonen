@@ -6,8 +6,8 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on ... Unity <br>
-- 🌱 I’m currently learning ... ASP.Net Core MVC <br>
+- 🔭 I’m currently working on ... Something exiting! <br>
+- 🌱 I’m currently learning ... Unity <br>
 - 👯 I’m looking to collaborate on ... C#<br>
 - 🤔 I’m looking for help with ... Unity <br>
 - 💬 Ask me about ... Anything <br>
