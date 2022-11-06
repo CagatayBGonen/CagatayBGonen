@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 ### Hello, my name is Cagatay and I'm Junior Business Development Specialist! 👋
 <a href="https://www.linkedin.com/in/%C3%A7a%C4%9Fatay-b-g%C3%B6nen-70ba6b173/">
   <img align="left" alt="Cagatay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -17,4 +20,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CagatayBGonen)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</body>
+</html>
