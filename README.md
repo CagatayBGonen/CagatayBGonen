@@ -1,24 +1,10 @@
-<!DOCTYPE html>
-<html>
-<body>
-### Hello, my name is Cagatay and I'm a passionate dreamer! 👋
-<a href="https://www.linkedin.com/in/cagatay-b-gonen/">
-  <img align="left" alt="Cagatay's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+# Merhaba, ben Çağatay B. Gönen 👋  
+🎮 Oyun tasarımcısı ve geliştiricisiyim. Unity, C#, Blender ve Aseprite kullanıyorum.  
+🌱 Şu an **2DGameProject_Summary** üzerinde çalışıyorum.  
+📫 Bana ulaşın: https://www.linkedin.com/in/cagatay-b-gonen/
+🚀 Portfolyom: https://cagataybgonen.itch.io/ 
 
-<br>
-<br>
-
-- 🔭 I’m currently working on ... Something exiting! <br>
-- 🌱 I’m currently learning ... Unity <br>
-- 👯 I’m looking to collaborate on ... C#<br>
-- 🤔 I’m looking for help with ... Unity <br>
-- 💬 Ask me about ... Anything <br>
-- 📫 How to reach me: ... cagataybayramgonen@gmail.com <br>
-- 😄 Pronouns: ... He/Him <br>
-- ⚡ Fun fact: ... I am an Archer :) <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CagatayBGonen)](https://github.com/anuraghazra/github-readme-stats)
-
-</body>
-</html>
+### ⚡ Teknolojiler ve Araçlar  
+- 🖥️ Unity, C#, Blender, Krita  
+- 📌 Git, GitHub, Jira, Miro  
+- 🎨 Aseprite, Blender
